@@ -1,3 +1,4 @@
 # first-demo
-this is my first git repository
-hello its me rakshya 
+This is my first git repository.
+<br>
+Hello its me Rakshya!
